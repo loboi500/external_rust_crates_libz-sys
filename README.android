@@ -1,5 +1,3 @@
-This package is imported to Android and uses Android's external/zlib
-header files and compilation flags to generate bindings.
-
-If features are changed for the libz-sys crate, please ensure those
-features are changed in the libz_bindgen_build module.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f765c1f5e372d425b25bf28c516aaa513f229e8a4160b59c6ec726d11d2b3c36
+size 250
